@@ -8,6 +8,15 @@ This repository gathers the main working files used for patient/sample descripti
 
 The objective of this repository is to centralize the datasets and resource tables used in the project in a structured and accessible way.
 
+## Repository structure
+
+- `data/clinical/`: patient and cohort metadata
+- `data/metabolomics/C18/`: C18 metabolomics datasets and annotations
+- `data/metabolomics/HILIC/`: HILIC metabolomics datasets and sample metadata
+- `data/lipidomics/`: lipidomics datasets
+- `data/external_reference/`: external or comparison datasets
+- `docs/`: project-related documentation
+
 ## Repository content
 
 ### Patient and cohort information
