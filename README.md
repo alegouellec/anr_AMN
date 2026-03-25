@@ -23,33 +23,35 @@ The objective of this repository is to centralize the datasets and resource tabl
 ### Metabolomics data
 - `05_Metabo_C18.xlsx`
   Processed metabolomics dataset for C18 analysis.
-
 - `05_Metabo_C18_InChI.csv`
   Annotation table including InChI-related information for C18 metabolites.
-
 - `06_SamplemetaData_C18.csv`
   Sample metadata associated with C18 metabolomics.
-
 - `07_Metabo_HILIC_Results.xlsx`
   Processed metabolomics dataset for HILIC analysis.
-
 - `07_Metabo_HILIC_Results_Expan...`
   Expanded HILIC results table.
-
 - `08_Metabo_HILIC_Sample_Metad...`
   Sample metadata associated with HILIC metabolomics.
+
+### Lipidomics data
+- `09_Lipido_Globale.xlsx`
+  Global lipidomics dataset.
+- `10_Lipido_Eicosa.xlsx`
+  Eicosanoid/lipid mediator dataset.
 
 ### Additional files
 - `C18_raw.xlsx`
   Raw or less processed C18 metabolomics data.
-
 - `Covid_data_Wuhan.xlsx`
   Additional comparison/reference dataset.
 
 ## Data organization
+
 The files are organized by analysis type:
 - **clinical / patient metadata**
 - **metabolomics (C18 and HILIC)**
+- **lipidomics**
 - **supporting reference files**
 
 ## Recommended use
