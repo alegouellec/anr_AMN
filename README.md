@@ -75,6 +75,15 @@ Before starting any analysis:
 - Add scripts and workflows if analysis code is included later.
 - Clarify naming conventions for raw vs processed data.
 
+## Ethics statement
+
+Patient samples were initially collected as part of the **BIOMARCOVID-ACNT** project, which was approved by the **CHUGA Institutional Review Board** and authorized after declaration to the **CNIL**, in accordance with the French regulatory procedure for a **single-center retrospective study** (DRCI reference: **38RC20.367**).
+
+These samples belong to the biobank **“AC-2020-4332 - CRB12 Agent infectieux.”**
+
+The Department of Biochemistry and its representative, **Dr. Audrey Le Gouellec**, will prepare and submit an amendment to the approved **ANR AMN** study to request reuse of the corresponding data generated under the **BIOMARCOVID-ACNT** protocol.
+
+
 ## Contact
 
 Project: **ANR_AMN**  
