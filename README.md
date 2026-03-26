@@ -14,7 +14,7 @@ The objective of this repository is to centralize the datasets and resource tabl
 - `data/metabolomics/C18/`: C18 metabolomics datasets and annotations
 - `data/metabolomics/HILIC/`: HILIC metabolomics datasets and sample metadata
 - `data/lipidomics/`: lipidomics datasets
-- `data/external_reference/`: external or comparison datasets
+- `data/external_references/`: external or comparison datasets
 - `docs/`: project-related documentation
 
 ## Repository content
