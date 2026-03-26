@@ -86,7 +86,7 @@ Before starting any analysis:
 
 ## Ethics statement
 
-Patient samples were initially collected as part of the **BIOMARCOVID-ACNT** project, which was approved by the **CHUGA Institutional Review Board** and authorized after declaration to the **CNIL**, in accordance with the French regulatory procedure for a **single-center retrospective study** (DRCI reference: **38RC20.367**).
+Patient samples were initially collected as part of the **BIOMARCOVID-ACNT** project, which was approved by the **CHUGA Institutional Review Board** and authorized after declaration to the **CNIL**, in accordance with the French regulatory procedure for a **single-center retrospective study** (DRCI reference: **38RC20.367**). The study is registered on the Health Data Hub website under the number F20210218154851. A commitment to comply with Reference Methodology n°004 issued by French Authorities (CNIL) has been signed by the investigator (Prof. O. Epaulard co-author of the current study).
 
 These samples belong to the biobank **“AC-2020-4332 - CRB12 Agent infectieux.”**
 
